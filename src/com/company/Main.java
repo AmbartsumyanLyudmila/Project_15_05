@@ -25,5 +25,7 @@ public class Main {
         System.out.println("Hi");
         System.out.println("Hi");
         System.out.println("Hi1");
+        System.out.println("Hi1");
+        System.out.println("Hi1");
     }
 }
